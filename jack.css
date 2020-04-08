@@ -1,0 +1,66 @@
+#about {
+    background: url(s.jpg);
+    text-align: center;
+    color: pink;
+    margin: 0px auto;
+    padding: 20px;
+}
+#portfolio {
+    background: url(h.jpg);
+    text-align: center;
+    color: blue;
+    margin: 0px auto;
+    padding: 20px;
+}
+#proj {
+    background: url(k.jpg);
+    text-align: center;
+    color: black;
+    margin: 0px auto;
+    padding: 20px;
+}
+#contact{
+    background: url(a.jpg);
+    text-align: center;
+    color: blue;
+    margin: 0px auto;
+    padding: 20px;
+}
+img {
+  margin-left: auto;
+  margin-top: auto; 
+  margin-right: auto;
+  margin-bottom: 2em;
+}
+.myNavbar{
+  background: black;
+  font-weight: bold;
+  color: white;
+  position: fixed;
+  z-index: 10px;
+  width: 100%;
+}
+.nav,.navbar-header{
+    background: black;
+    font-weight: bold;
+    text-align: center;
+    color: purple;
+}
+body { 
+  padding-bottom: 0px;
+  font-family: 'Gotu',sans-serif;
+  font-weight: bold;
+  background: black;
+}
+.form-control{
+  width: 28%;
+  height: 30px;
+  border-radius: 20px solid black;
+}
+button{
+  background: white;
+  color: darkblue;
+  width: 60px;
+  height: 35px;
+  border-radius: 20px;
+}
